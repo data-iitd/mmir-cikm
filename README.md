@@ -1,5 +1,7 @@
 # MMIR-benchmark
 
+### Paper: [Scalability Analysis of Cross-Modal Text-to-Image Pipelines](https://doi.org/10.1145/3799682.3840752)
+
 ## 1. Embedding Generation
 
 [Embedding](Benchmark/code/embeddingGeneration/README.md)
@@ -33,3 +35,9 @@
 ## 8. Scalability Experiments
 
 [Scalability Experiments](Benchmark/code/scalabilityExperiments/README.md)
+
+
+---
+
+> **Note:** For the paper [Retrieval-Stage Interactions in Cross-Modal Text-to-Image Retrieval Pipelines](https://doi.org/10.1145/3799682.3840060), please switch to the `main` branch.
+
