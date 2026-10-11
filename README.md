@@ -7,14 +7,14 @@
 [Embedding](Benchmark/code/embeddingGeneration/README.md)
 
 
-## 2. Ingesting Data into Solr
+## 2. Ingesting Data Faiss
 
-[Ingest](Benchmark/code/vectorStore/solr/README.md)
+[Ingest](Benchmark/code/vectorStore/faiss/ingestDataIntoFAISS/README.md)
 
 
-## 3. Retrieval from Solr
+## 3. Retrieval from Faiss
 
-[Retrieval](Benchmark/code/vectorStore/solr/README.md)
+[Retrieval](Benchmark/code/retrievalService/faiss_base_service/README.md)
 
 
 ## 5. Metadata Generation & Logging
